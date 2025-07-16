@@ -1,3 +1,13 @@
+# 👨‍💻 Afaq Ahmad
+
+### 🚀 Full Stack Developer | Flutter, Node.js, React.js, .NET Core Web API (C#)
+
+Hi! I'm **Afaq Ahmad**, a passionate and result-driven full stack developer with experience building robust cross-platform apps and scalable APIs.  
+I specialize in **Flutter (mobile/web)**, **Node.js**, **React.js**, and **ASP.NET Core Web API (C#)** with strong knowledge of **Firebase**, **MongoDB**, and **SQL Server**.  
+I love working on scalable cloud systems, clean architecture, state management, and building high-performance apps.
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 🧑‍💻 Frontend / Mobile
@@ -40,5 +50,19 @@
 ![Stripe](https://img.shields.io/badge/-Stripe%20Payment-6772e5?logo=stripe&logoColor=white&style=flat)
 
 ---
+
+### 💡 Skills Summary (Text Format)
+
+**Languages**: Dart, JavaScript, TypeScript, C#, C++, Python  
+**Mobile/Frontend**: Flutter, React.js, Next.js, HTML/CSS  
+**Backend**: Node.js (Express.js), ASP.NET Core Web API  
+**Databases**: Firebase Firestore, MongoDB, SQL Server  
+**State Management**: GetX, BLoC, Stacked, Redux, Zustand  
+**Tools**: Git, Postman, Stripe, Socket.IO, Axios, Dio, VS Code, Figma  
+**Platforms**: Firebase, Vercel, WordPress, Netlify
+
+---
+
+📧 **Email**: [afaq.affo17@gmail.com](mailto:afaq.affo17@gmail.com)
 
 🔗 Connect with me on GitHub and check out my projects using these technologies!
