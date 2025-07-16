@@ -64,5 +64,6 @@ I love working on scalable cloud systems, clean architecture, state management, 
 ---
 
 📧 **Email**: [afaq.affo17@gmail.com](mailto:afaq.affo17@gmail.com)
+📧 **Watsapp No:**: [+923206475636]
 
 🔗 Connect with me on GitHub and check out my projects using these technologies!
